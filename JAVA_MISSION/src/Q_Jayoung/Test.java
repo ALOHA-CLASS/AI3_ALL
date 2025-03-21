@@ -1,4 +1,4 @@
-package Q01.Q_Jayoung;
+package Q_Jayoung;
 
 public class Test {
 
